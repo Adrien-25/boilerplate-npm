@@ -2,6 +2,11 @@
 	"author": "Adrien SCHMIDT",
 	"description": "A Wonderful project",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [
+		"freecodecamp",
+		"NPM",
+		"replit"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
